@@ -26,7 +26,4 @@ Contribuições são bem-vindas! Se você quiser adicionar suas próprias resolu
 - [Git](https://git-scm.com): Sistema de controle de versão distribuído.
 - [GitHub](https://github.com): Plataforma de hospedagem de código-fonte.
 
-## Licença
-
-Este repositório está sob a licença [MIT](LICENSE). Sinta-se à vontade para usá-lo da maneira que preferir.
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpblda13%2FResolucoesBeecrowd&label=VISITORS&labelColor=%23d9e3f0&countColor=%23f47373&labelStyle=none)
